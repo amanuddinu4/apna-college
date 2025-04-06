@@ -1,4 +1,5 @@
 # apna-college
 my git repo
 <br>
-Author - AmanUddin
+Author - AmanUddin (apna college)
+
